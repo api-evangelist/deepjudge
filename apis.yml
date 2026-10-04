@@ -49,7 +49,7 @@ tags:
 - Company
 - Legal Tech
 - Legal AI
-- Knowledge-Management
+- Knowledge Management
 - Enterprise Search
 - AI Agents
 - Document Intelligence
@@ -63,6 +63,7 @@ tags_raw:
 - AI Agents
 - Document Intelligence
 - Model Context Protocol
+- Knowledge-Management
 apis: []
 maintainers:
 - FN: Kin Lane
